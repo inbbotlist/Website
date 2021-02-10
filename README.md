@@ -1,3 +1,10 @@
+# INB Botlist Website
+[Inbbotlist](https://inbbotlist.com) used [Dbots](https://dbots.co) license.
+We are very thankfull to [Dbots](https://dbots.co) for this great repository.
+Visit [Website](https://inbbotlist.com), Join [Discord](https://discord.gg/9vjQSMj2zm).
+
+For use this repository please follow the license notice & setup details given below.
+
 # DBots - Website
 Quickly and easily find Discord bots. Use this repository to customize the website.
 
